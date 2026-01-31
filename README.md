@@ -3,6 +3,8 @@
 ## Front-End
 The code for the front-end is in a file called `index.tpl`, which is located in the `views` directory. To run the server, run `python app.py`
 
+<img width="1568" height="948" alt="image" src="https://github.com/user-attachments/assets/7bb8b69f-0a11-40fb-9024-68b1a77b2354" />
+
 ## Back-End
 Refer to `crawler.py` for back-end starter code, `test_crawler.py` for unit tests.
 
