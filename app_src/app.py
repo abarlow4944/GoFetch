@@ -152,4 +152,4 @@ def logout():
 
 
 app = SessionMiddleware(default_app(), session_opts)
-run(app=app, host='0.0.0.0', port=8080, debug=True, reloader=True)
+run(app=app, host='localhost', port=8080, debug=True, reloader=True)
