@@ -1,4 +1,4 @@
-# ECE326 Lab 1
+# GoFetch Search Engine
 
 ## Front-End
 The code for the front-end is in a file called `index.tpl`, which is located in the `views` directory. To run the server, run `python app.py`
